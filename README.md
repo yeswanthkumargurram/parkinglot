@@ -65,3 +65,5 @@ time,
 status,
 ref number
 
+**Key Points**
+In this project we have seen how we can implements Inheritance in the db(using base class which stores common attributes) and how we can represents Enum in database(cretaed sepearate Entity to have Enum values)
