@@ -68,5 +68,5 @@ ref number
 **Key Points**
 In this project we have seen how we can implements Inheritance in the db(using base class which stores common attributes) and how we can represents Enum in database(cretaed sepearate Entity to have Enum values)
 
-**Scheme Design**
+**Partial Scheme Design**
 ![Copy of ParkingLot drawio](https://github.com/yeswanthkumargurram/parkinglot/assets/36203051/f5053fcb-4d06-4d56-ac00-22ed0548dff0)
